@@ -4,7 +4,7 @@ Modern and responsive frontend portfolio built with Angular, showcasing UI/UX de
 
 ---
 
-## ✨ Features
+##  Features
 
 - Modern UI Design
 - Fully Responsive Layout
@@ -18,7 +18,7 @@ Modern and responsive frontend portfolio built with Angular, showcasing UI/UX de
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Angular
 - TypeScript
@@ -30,7 +30,7 @@ Modern and responsive frontend portfolio built with Angular, showcasing UI/UX de
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
 ### Hero Section
 
@@ -56,7 +56,7 @@ Modern and responsive frontend portfolio built with Angular, showcasing UI/UX de
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
